@@ -1,0 +1,19 @@
+{{- $p := .Site.Params -}}
+<rss version="2.0">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Site.BaseURL }}</link>
+
+    <!-- 自分のプロフィール情報 -->
+    <managingEditor>{{ $p.email }} ({{ $p.name }}, {{ $p.affiliation }})</managingEditor>
+
+    {{ range .Pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+      <description>{{ .Summary }}</description>
+    </item>
+    {{ end }}
+  </channel>
+</rss>
