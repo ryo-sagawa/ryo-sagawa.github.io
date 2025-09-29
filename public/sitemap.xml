@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryo-sagawa.github.io/Template-Hugo/</loc>
+    <loc>http://localhost:1313/Template-Hugo/posts/new-post/</loc>
     <lastmod>2025-09-29T20:52:48+09:00</lastmod>
   </url><url>
-    <loc>https://ryo-sagawa.github.io/Template-Hugo/posts/new-post/</loc>
+    <loc>http://localhost:1313/Template-Hugo/posts/</loc>
     <lastmod>2025-09-29T20:52:48+09:00</lastmod>
   </url><url>
-    <loc>https://ryo-sagawa.github.io/Template-Hugo/posts/</loc>
+    <loc>http://localhost:1313/Template-Hugo/</loc>
     <lastmod>2025-09-29T20:52:48+09:00</lastmod>
   </url><url>
-    <loc>https://ryo-sagawa.github.io/Template-Hugo/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/Template-Hugo/posts/my-first-post/</loc>
     <lastmod>2025-09-29T20:38:18+09:00</lastmod>
   </url><url>
-    <loc>https://ryo-sagawa.github.io/Template-Hugo/categories/</loc>
+    <loc>http://localhost:1313/Template-Hugo/categories/</loc>
   </url><url>
-    <loc>https://ryo-sagawa.github.io/Template-Hugo/tags/</loc>
+    <loc>http://localhost:1313/Template-Hugo/tags/</loc>
   </url>
 </urlset>

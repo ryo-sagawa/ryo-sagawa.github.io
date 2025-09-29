@@ -1,0 +1,10 @@
+baseURL = "https://ryo-sagawa.github.io/Template-Hugo/"
+languageCode = "ja"
+title = "Ryo Sagawa"
+theme = "ananke"
+
+
+[params]
+  authorName = "佐川遼"
+  affiliation = "大阪大学大学院　情報科学研究科　情報基礎数学専攻　博士前期課程2年"
+  authorEmail = "u341202b@ecs.osaka-u.ac.jp"
